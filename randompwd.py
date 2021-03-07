@@ -1,3 +1,4 @@
+# Python program to generate random passwords of desired length to csv file
 import random
 import string
 import csv
